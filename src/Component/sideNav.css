@@ -1,0 +1,34 @@
+.sideNavDropDownHidden{
+    display: none;
+    /* visibility: hidden; */
+    width: 0%;
+    height: 0%;
+}
+.sideNavDropDownVisible{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+.active-link{
+    background-color:#fea1431b;
+    color: #ff9f43 !important;
+}
+.inactive-link{
+    background-color: rgb(255, 255, 255);
+}
+.active-link-dropDown{
+    /* background-color:#fea1431b; */
+    color: #ff9f43 !important;
+}
+.inactive-link-dropDown{
+    background-color: rgb(255, 255, 255);
+    color:  #5b6670;
+}
+.dropDownActivediv{
+    background-color: #fea1431b;
+}
+.dropDownINActivediv{
+    background-color: #ffff;
+
+}
+
